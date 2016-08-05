@@ -1,0 +1,33 @@
+_repo: Wolfert-s-Roost-and-Miscellanies_8571
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'American essays'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Chronicle of Wolfert's Roost -- Sleepy Hollow -- Birds of spring
+  -- Recollections of the Alhambra -- Abencerrage -- Enchanted island -- Adelantado
+  of the Seven Cities -- National nomenclature -- Desultory thoughts on criticism
+  -- Spanish romance -- Legend of Don Munio Sancho de Hinojosa -- Communipaw -- Conspiracy
+  of the cocked hats -- Legend of Communipaw -- The Bermudas -- Pelayo and the merchant's
+  daughter -- Knight of Malta -- Legend of the engulphed convent.
+title: Wolfert's Roost, and Miscellanies
+url: http://www.gutenberg.org/ebooks/8571
